@@ -1,7 +1,6 @@
 # Ingredients
-- peas (1.35)
-- spring onions (0.64)
-- potato (2)
+- peas
+- spring onions
+- potato
 # Instructions
-- shell the peas
-
+- shell the peas and put them into a pan.
